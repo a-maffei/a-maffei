@@ -1,5 +1,8 @@
 <h3 align="center">Ciao, I'm Alessandra</h3>
-<p>I'm a Full-Stack Web Developer with a background in digital marketing. After a decade of telling people why they should love a product, now my goal is to build products for people to love (and use).</p><br><br>🧠 The project I'm most passionate about: [Ask A Local](https://github.com/a-maffei/frontend-askalocal)<br>📚 The book on my desk: Learning Typescript (J. Goldberg)<br>🎧 The podcast I'm binge-listening to: Front End Happy Hour<br>👩🏻‍💻 Right now I’m working on: my portfolio website and on a "networking tracker app for introverts" (name TBD)<br>✉️ How to reach me for a chat: ales.maffei@gmail.com
+<img src="https://raw.githubusercontent.com/a-maffei/a-maffei/main/github.001.jpeg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" /> <p>I'm a Full-Stack Web Developer with a background in digital marketing. After a decade of telling people why they should love a product, now my goal is to build products for people to love (and use).</p><br><br>🧠 The project I'm most passionate about: [Ask A Local](https://github.com/a-maffei/frontend-askalocal)<br>📚 The book on my desk: Learning Typescript (J. Goldberg)<br>🎧 The podcast I'm binge-listening to: Front End Happy Hour<br>👩🏻‍💻 Right now I’m working on: my portfolio website and on a "networking tracker app for introverts" (name TBD)<br>✉️ How to reach me for a chat: ales.maffei@gmail.com
+
 
 
 ## 💻 Tech Stack:
