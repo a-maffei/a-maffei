@@ -1,5 +1,5 @@
 <div align="center">
-<img height="350" src="https://github.com/a-maffei/a-maffei/blob/main/github.001%20square.jpeg?raw=true"></div><br>
+<img height="350" src="https://github.com/a-maffei/a-maffei/blob/main/alessandraelio.jpeg?raw=true"></div><br>
 <b>Ciao, I'm Alessandra.</b>
 I'm a Full-Stack Web Developer with a background in digital marketing. After a decade of telling people why they should love a product, now my goal is to build products for people to love (and use).</p>🧠 The project I'm most passionate about: [Ask A Local](https://github.com/a-maffei/frontend-askalocal)<br>📚 The book on my desk: Learning Typescript (J. Goldberg)<br>🎧 The podcast I'm binge-listening to: Front End Happy Hour<br>👩🏻‍💻 Right now I’m working on: my portfolio website and on a "networking tracker app for introverts" (name TBD)<br>✉️ How to reach me for a chat: ales.maffei@gmail.com
 
