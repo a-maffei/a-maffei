@@ -2,7 +2,7 @@
 <img height="300" src="https://github.com/a-maffei/a-maffei/blob/main/alessandra-elio-git-pic.jpeg?raw=true"></div><br><br>
 <b>Ciao, I'm Alessandra.</b> I'm a Full-Stack Web Developer living in Berlin, Germany.<br><br>
 I (happily) spend my days between git branches, React components, HTTP requests, and CSS classes. Prior to this, my work has been all about marketing—first as an individual contributor, then leading teams for global tech companies.<br><br>
-After a decade of telling people why they should love a product, now my goal is to build products people love to use. What hasn’t changed, is the joy I find in contributing to a team, in observing the real-life impact of my work, and in learning from experiences and people.<br><br>
+After a decade of telling people why they should love a product, now my goal is to build products people love to use. What hasn’t changed, is the joy I find in contributing to a team, observing the real-life impact of my work, and learning from experiences and people.<br><br>
 
 🧠 The project I'm most passionate about: [Ask A Local](https://github.com/a-maffei/frontend-askalocal)<br>📚 The book on my desk: Learning Typescript (J. Goldberg)<br>🎧 The podcast I'm binge-listening to: Front End Happy Hour<br>👩🏻‍💻 Right now I’m working on: my portfolio website and on a time tracker for busy career-changers<br>✉️ How to reach me for a chat: ales.maffei@gmail.com
 
