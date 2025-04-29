@@ -1,7 +1,7 @@
 <div align="center">
 <img height="300" src="https://github.com/a-maffei/a-maffei/blob/main/alessandra-elio-git-pic.jpeg?raw=true"></div>
 
-Ciao! I'm Alessandra and I work as a Junior Full-Stack Engineer at [Feather Insurance](https://github.com/a-maffei).
+Ciao! I'm Alessandra and I work as a Software Engineer at [Feather Insurance](https://github.com/a-maffei).
 Before this, my work has been all about marketing—first as an individual contributor, then leading teams for global tech companies.<br><br>
 After a decade of telling people why they should love a product, I now aim to build products people love to use. What hasn’t changed, is the joy I find in contributing to a team, observing the real-life impact of my work, and learning from experiences and people.<br><br>
 
